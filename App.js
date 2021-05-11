@@ -35,7 +35,7 @@ function clearAndPrint()
 //       append each ingred to paragraph
     {   
         counter++;
-        let prettyPrint = `${counter}) +" " +${anIngred.name} ${anIngred.lName} ${anIngred.pGrade}%  a ${anIngred.letterGrade}<br>` ;
+        let prettyPrint = `${counter}) ${anIngred.name} ${anIngred.lName} ${anIngred.pGrade}%  a ${anIngred.letterGrade}<br>` ;
         // $("p#recipe").append(prettyPrint);
         $("p#output").append(prettyPrint);
     }
