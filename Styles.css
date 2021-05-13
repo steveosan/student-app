@@ -1,0 +1,27 @@
+body {
+    background-color: steelblue;
+}
+
+#container {
+    background-color: whitesmoke;
+    border: solid black;
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 5px 10px #888888;
+}
+
+#output{
+    background-color: whitesmoke;
+    border: solid black;
+    margin-top: 5px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 5px 10px #888888;
+}
